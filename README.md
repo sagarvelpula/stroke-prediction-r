@@ -28,8 +28,12 @@ The project includes:
 
 ## Results
 
-* Model Accuracy: (your output)
+* Model Accuracy: 95.17 %
 * ROC Curve and AUC calculated
+
+## Live Demo
+
+https://sagarvelpula.shinyapps.io/scripts/
 
 ## Visualizations
 
