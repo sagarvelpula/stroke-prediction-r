@@ -1,0 +1,37 @@
+# gender_dist
+
+  gender Count
+  <chr>  <int>
+1 Female  2994
+2 Male    2115
+3 Other      1
+
+# Stroke rate based on gender
+
+  gender Stroke_Rate
+  <chr>        <dbl>
+1 Female      0.0471
+2 Male        0.0511
+3 Other       0     
+
+> # Hypertension and heart disease prevalence
+
+Hypertension prevalence:  9.745597 %
+
+Heart disease prevalence:  5.401174 %
+
+# Smoking status breakdown
+
+  smoking_status  Count
+  <chr>           <int>
+1 Unknown          1544
+2 formerly smoked   885
+3 never smoked     1892
+4 smokes            789
+
+> # Residence type breakdown
+
+  Residence_type Count
+  <chr>          <int>
+1 Rural           2514
+2 Urban           2596

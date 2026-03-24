@@ -1,0 +1,14 @@
+# Confusion Matrix
+
+Confusion Matrix: 
+       0
+  0 1458
+  1   74
+
+# Calculate Accuracy
+
+Model Accuracy:  95.17 %
+
+# AUC
+
+AUC:  0.8473103 
