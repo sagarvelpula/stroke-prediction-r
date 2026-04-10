@@ -35,6 +35,11 @@ The project includes:
 
 https://sagarvelpula.shinyapps.io/scripts/
 
+## Screenshot
+
+<img width="1300" height="1904" alt="sagarvelpula shinyapps io_scripts_" src="https://github.com/user-attachments/assets/247dce23-9cb1-48da-80f8-0cb33976fd84" />
+
+
 ## Visualizations
 
 Check the results directory
